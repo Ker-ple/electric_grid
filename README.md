@@ -5,4 +5,5 @@ This is a project to investigate the robustness of the US power transmissions gr
 
 
 ### Data Source
-From the [US Energy Atlas](https://atlas.eia.gov/datasets/geoplatform::transmission-lines/explore?filters=eyJWT0xUQUdFIjpbLTk5OTk5OSwtNDU3OC4xNl19&location=30.041305%2C-92.637992%2C22.42)
+Transmission lines from the [US Energy Atlas](https://atlas.eia.gov/datasets/geoplatform::transmission-lines/explore?filters=eyJWT0xUQUdFIjpbLTk5OTk5OSwtNDU3OC4xNl19&location=30.041305%2C-92.637992%2C22.42)
+
