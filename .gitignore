@@ -1,2 +1,3 @@
 /.venv
-transmission*
+transmission_lines.geojson
+transmission_lines.geojson.Identifier
