@@ -1,0 +1,2 @@
+How can I tell if two transmission lines connect? There are times when the map says they don't share a substation, but can they connect in other ways?
+For example, the intersection of Byers Pass Rd and US-395 (OBJECTIDs 83598, 85848)
