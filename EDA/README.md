@@ -21,3 +21,5 @@ Update: A number of complications have arisen since I started looking into this 
 - A substation can have two different coordinates associated with it because it is large enough for transmission lines to connect on either end.
 - Lines that connect in real life might not share coordinates or a substation name in the data.
 I'm not sure how to tackle this yet, so I might test some algorithms for finding weak points on the grid before committing to a solution.
+
+Thought: Ideally, I could calculate pairwise distances between all of my coordinates and group coordinates that are within $\epsilon$-tolerance of each other. These would denote substations. Unfortunately, I have about 74k unique coordinates to work with, so this is computationally infeasable. Storing the points as doubles would also take about 45 gigabytes of space.
