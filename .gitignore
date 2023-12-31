@@ -1,3 +1,4 @@
 /.venv
 transmission_lines.geojson
 transmission_lines.geojson.Identifier
+EDA/transmission.db.tmp
